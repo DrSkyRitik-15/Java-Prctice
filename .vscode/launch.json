@@ -2,47 +2,6 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "java",
-      "name": "Matchinarrayremove",
-      "request": "launch",
-      "mainClass": "Matchinarrayremove",
-      "projectName": "JavaPractice_4482e93f"
-    },
-    {
-      "type": "java",
-      "name": "Add",
-      "request": "launch",
-      "mainClass": "Add",
-      "projectName": "java_5da1b3c4"
-    },
-    {
-      "type": "java",
-      "name": "Main",
-      "request": "launch",
-      "mainClass": "Main",
-      "projectName": "java_5da1b3c4"
-    },
-    {
-      "type": "java",
-      "name": "Addbyte",
-      "request": "launch",
-      "mainClass": "Integer.Addbyte",
-      "projectName": "java_5da1b3c4"
-    },
-    {
-      "type": "java",
-      "name": "Inter1",
-      "request": "launch",
-      "mainClass": "Integer.Inter1",
-      "projectName": "java_5da1b3c4"
-    },
-    {
-      "type": "java",
-      "name": "Current File",
-      "request": "launch",
-      "mainClass": "${file}"
-    },
-    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
