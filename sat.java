@@ -13,7 +13,7 @@ class gola extends Aplle{
 /**
  * Sat1
  */
-public class Sat1 {
+public class sat {
 public static void main(String[] args) {
     
     gola g=new gola();
